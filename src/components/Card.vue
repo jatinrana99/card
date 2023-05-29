@@ -23,7 +23,7 @@ export default {
 .card{
     border: 2px solid;
 width: 406px;
-height: 408px;
+height: 450px;
 align-content: center;
 margin: 3px;
 align-items: center;

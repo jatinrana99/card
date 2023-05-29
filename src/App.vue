@@ -15,8 +15,8 @@
           <p>In the world of photography, you get to share a captured moment with other people.</p>
           </template>
 
-          <template>
-            <button>Go Somewhere</button>
+          <template v-slot:footer>
+            <button>Know More</button>
             </template>
     </Card>
 
@@ -34,8 +34,8 @@
           <p>Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots.</p>
           </template>
 
-          <template>
-            <button>Go Somewhere</button>
+          <template v-slot:footer>
+            <button>Know How to Code</button>
             </template>
     </Card>
 
@@ -52,8 +52,8 @@
           <p>According to Shiva, you are free to make decisions of your own, but you are not free to run away from the consequences of those decisions.</p>
           </template>
 
-          <template>
-            <button>Go Somewhere</button>
+          <template v-slot:footer>
+            <button>Explore More about SHIV JI</button>
             </template>
     </Card>
   </div>
